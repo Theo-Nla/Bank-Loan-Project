@@ -24,3 +24,9 @@ These objectives include:
 ## Visualization Tools
 The analysis utilizes Excel for data processing, analysis, and visualization. Various Excel features, including pivot tables, charts, and graphs, are employed to create insightful reports and dashboards that aid in decision-making and performance monitoring.
 
+
+![bank loan pics](https://github.com/Theo-Nla/Bank-Loan-Project/assets/135545087/ffe259e6-9580-4d25-9b18-6d1247a6af3a)
+
+![Bank loan Picture2](https://github.com/Theo-Nla/Bank-Loan-Project/assets/135545087/ed455cde-0366-4d50-aab7-a87a2725dca9)
+
+
